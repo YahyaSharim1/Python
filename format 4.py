@@ -1,0 +1,6 @@
+name=input ("Enter your name  ")
+print(name.isalpha())
+age= input ("Enter your age  ")
+print(age.isdigit())
+password= input ("create password")
+print (password.isalnum())
