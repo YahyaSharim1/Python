@@ -15,6 +15,7 @@ while(True):
     reply=input ("Do you wish to continue Y/N  ")
     if reply =="N":
        break 
+print (student)
 
 
 
